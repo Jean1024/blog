@@ -3,6 +3,7 @@ home: true
 heroImage: /imgs/0.jpg
 heroText: 邱志林的博客
 tagline: 记录生活点滴
+sidebar: auto
 actionText: 浏览 →
 actionLink: /guide/
 features:
