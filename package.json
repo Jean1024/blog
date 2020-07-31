@@ -187,7 +187,7 @@
     "docsearch.js": "^2.6.3",
     "dom-walk": "^0.1.1",
     "domutils": "^1.7.0",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.2.0",
     "emoji-regex": "^7.0.3",
     "ecc-jsbn": "^0.1.2",
     "emojis-list": "^2.1.0",
